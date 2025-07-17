@@ -24,12 +24,16 @@ This project is a simple machine learning web application built with Streamlit t
   └── README.md        # README file
 ```
 
-# 📷 Screenshot
-    
-    file:///home/kwabsntim/Pictures/Screenshots/Screenshot%20from%202025-07-17%2012-30-03.png
 
 # ▶️ Running the App
 
 ```bash
     streamlit run app.py
 ```
+
+
+# 📷 Screenshot
+<img width="1129" height="665" alt="Screenshot from 2025-07-17 12-30-03" src="https://github.com/user-attachments/assets/f9fa58cc-7fb6-42b7-a819-683564ae5375" />
+
+
+
