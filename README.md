@@ -47,9 +47,3 @@ Each folder in this repository contains an individual ML project, complete with:
   cd ml-projects 
  ```
 
-2.To run the project 
-
-  ```bash
-    streamlit run app.py
-  ```
-
