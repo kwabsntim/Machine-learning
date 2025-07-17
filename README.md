@@ -20,7 +20,7 @@ Each folder in this repository contains an individual ML project, complete with:
 
 | Project | Description |
 |--------|-------------|
-| `iris-flower-predictor` | A simple classification project using the Iris dataset and decision trees. Includes a Streamlit web app. 🌸 |
+| `iris-flower-predictor` | *A simple classification project using the Iris dataset and decision trees. Includes a Streamlit web app. 🌸* |
 
 | ... | More projects coming soon! 🚀 |
 
@@ -46,6 +46,7 @@ Each folder in this repository contains an individual ML project, complete with:
   git clone https://github.com/kwabsntimi/Machine-learning.git
   cd ml-projects 
  ```
+
 2.To run the project 
 
   ```bash
