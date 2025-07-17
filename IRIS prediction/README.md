@@ -16,8 +16,7 @@ This project is a simple machine learning web application built with Streamlit t
 
 # Project Structure 
 ```bash
-  iris-flower-predictor/
-  │
+IRIS prediction/
   ├── app.py           # Streamlit app file
   ├── iris.csv         # Dataset (optional, if loading from CSV)
   ├── iris.ipynb       # notebook
