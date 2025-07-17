@@ -1,6 +1,6 @@
 # 🤖 Machine Learning Projects Collection
 
-Welcome to my Machine Learning portfolio! This repository contains a growing collection of ML projects I’ve built as I learn, explore, and solve real-world problems using machine learning.
+*Welcome to my Machine Learning portfolio! This repository contains a growing collection of ML projects I’ve built as I learn, explore, and solve real-world problems using machine learning.*
 
 ---
 
@@ -41,6 +41,19 @@ Each folder in this repository contains an individual ML project, complete with:
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/kwabsntimi/ml-projects.git
-cd ml-projects
+
+  ```bash
+  git clone https://github.com/kwabsntimi/Machine-learning.git
+  cd ml-projects
+ 
+  
+
+
+
+
+
+
+
+
+
+
