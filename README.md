@@ -44,16 +44,11 @@ Each folder in this repository contains an individual ML project, complete with:
 
   ```bash
   git clone https://github.com/kwabsntimi/Machine-learning.git
-  cd ml-projects
- 
-  
+  cd ml-projects 
+ ```
+2.To run the project 
 
-
-
-
-
-
-
-
-
+  ```bash
+    streamlit run app.py
+  ```
 
