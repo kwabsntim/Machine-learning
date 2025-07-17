@@ -23,6 +23,11 @@ This project is a simple machine learning web application built with Streamlit t
   ├── iris.ipynb       # notebook
   └── README.md        # README file
 ```
+
+# 📷 Screenshot
+    
+    file:///home/kwabsntim/Pictures/Screenshots/Screenshot%20from%202025-07-17%2012-30-03.png
+
 # ▶️ Running the App
 
 ```bash
