@@ -37,9 +37,9 @@ Each folder in this repository contains an individual ML project, complete with:
 
 ---
 
-## 🚀 How to Use
+## ⚙️ How to Use
 
-1. Clone the repository:
+1.Clone the repository:
 
 
   ```bash
